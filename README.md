@@ -1,3 +1,3 @@
 # Aplikasi Objek Wisata Susur Sungai
 
-![image](https://github.com/user-attachments/assets/cd260614-c8ac-4314-ada8-90dc9e20abc3)
+![image](https://github.com/user-attachments/assets/2306a048-e0e2-4819-bf4d-d3707e33329c)
